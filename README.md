@@ -13,3 +13,5 @@ O desafio consiste em criar um sistema bancário simples, seguindo algumas regra
 4 - O extrato deve apresentar valor no formato 100.00
 
 5 - Não pode haver depósito em valor negativo.
+
+Na segunda versão foi adicionado novas funçoes, como criar conta, usuario, e listar contas.
